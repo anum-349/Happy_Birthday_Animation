@@ -30,11 +30,14 @@ This Python script is a **fun, interactive, and colorful birthday greeting** tha
 ## 📂 Project Structure
 
 ```
-Birthday_Surprise/
+Happy_Birthday_Animation/
 │
-├── birthday_script.py      # Main script with ASCII animation
-├── birthday.mp3            # Background birthday music
-└── README.md               # Project documentation
+├── Birthday.py      
+├── birthday.mp3     
+├── birthday.txt           
+├── cake.txt            
+├── file.txt            
+└── README.md        
 ```
 
 ---
@@ -59,7 +62,7 @@ pip install playsound
 4. **Run the script**:
 
 ```bash
-python birthday_script.py
+python Birthday.py
 ```
 
 5. Follow the on-screen prompts and enjoy the animated surprise.
